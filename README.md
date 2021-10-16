@@ -1,5 +1,72 @@
 # Github-Actions builds OpenWrt for xiaomi_ax3600
-
-使用p3terx的模板,上传本地配制好的`config`,`feeds.config.default`文件,[编译成功的固件](https://github.com/vonl1/Openwrt_xiaomi_ax3600/releases)
-<br>启用的功能:
-  - 等一下再写
+---
+使用p3terx的模板,上传本地配制好的`config`,`feeds.config.default`文件,使用github actions编译,编译成功的固件在release里边
+### 启用的功能:
+---
+- base system
+  - attendesysuograde-common
+  - base-files
+  - busybox
+  - dnsmasq-full
+    - build tith dhcp support
+    - build with dhcpv6 support
+    - build with contrack support
+    - build with tftp server support
+  - dropbear
+  - okpg
+  - pcocd
+    
+- luci
+    - collections
+      - luci-nginx
+      - luci-ssl-nginx
+    - module
+      - luci-compat
+      - luci-mod-failsafe
+      - luci-newapi
+    - applacations
+      - luci-app-accesscontrol
+      - luci-app-deguardhome
+      - luci-app-advanced
+      - luci-app-advanced-reboot
+      - luci-app-aliyundrive-webdav
+      - luci-app-argon-config
+      - luci-app-arpbind
+      - luci-app-autoreboot
+      - luci-app-clash
+      - luci-app-dnsfilter
+      - luci-app-easymesh
+      - luci-app-familycloud
+      - lici-app-filetransfer
+      - luci-app-guest-wifi
+      - luci-app-netdata
+      - luci-app-nfs
+      - luci-app-nlbwmon
+      - luci-app-noddos
+      - luci-app-ntpc
+      - luci-app-openclash
+      - luci-app-qos
+      - luci-app-ramfree
+      - luci-app-samba4
+      - luci-app-ttyd
+      - luci-app-turboacc
+        - includ shortcut-fe for ecm
+        - includ bbr cca
+      - luci-app-unblockmusic
+        - unblockneteasemusic golang version
+        - unblockneteasemusic nodejs version
+      - luci-app-upnp
+      - luci-app-vlmcsd
+      - luci-app-vnstat
+      - luci-app-vsftpd
+      - luci-app-wol
+      - luci-app-xlnetacc
+    - themes
+      - luci-theme-argon
+- utilities
+  - editiors
+    - vim-full
+  - shells
+    - zsh
+>**luci插件说明**
+>https://www.right.com.cn/forum/thread-344825-1-2.html
