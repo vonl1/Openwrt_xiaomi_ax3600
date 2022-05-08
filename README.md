@@ -6,6 +6,6 @@
 ---
 - adguardhome
 - openclash
-- 
+
 >**luci插件说明**
 >https://www.right.com.cn/forum/thread-344825-1-2.html
