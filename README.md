@@ -1,5 +1,5 @@
 # Github-Actions builds OpenWrt for xiaomi_ax3600
----
+
 使用p3terx的模板,openwrt仓库使用[boos4721/openwrt](https://github.com/Boos4721/openwrt),本地配置好`.config`文件,上传到主目录下
 
 ### 个人自用精简固件
