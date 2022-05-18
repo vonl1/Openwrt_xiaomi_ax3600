@@ -9,14 +9,9 @@
 
 **服务:**
 - adguardhome
-- smartdns
-- mosdns
 - openclash
 - store
 - upnp
 
-**问题:**
-
-adguardhome有问题,adguardhmoe启用后,未运行未重定向
 
 >**luci插件说明**,https://www.right.com.cn/forum/thread-344825-1-2.html
