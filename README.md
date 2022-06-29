@@ -2,7 +2,7 @@
 
 使用p3terx的模板,openwrt仓库使用[boos4721/openwrt](https://github.com/Boos4721/openwrt),本地配置好`.config`文件,上传到主目录下
 
-## 个人自用精简固件,最新内核
+## 个人自用精简固件,最新内核,不定期更新
 
 **网关地址:`10.10.10.1`**
 
@@ -18,8 +18,6 @@
 - upnp
 
 ### 介绍一下这个固件选择这些的原因
-
-不定期更新
 
 argon主题,openclash全局设置显示不全,弃掉,仅使用bootstrap
 
