@@ -30,3 +30,8 @@ aliyunwebdav,store里边有,想用自己安装,弃掉
 #### [adguard home 配合 openclash实现科学上网+广告过滤](https://github.com/vonl1/Openwrt_xiaomi_ax3600/blob/main/adguard_home%E9%85%8D%E5%90%88openclash.md)
 
 >**luci插件说明**,https://www.right.com.cn/forum/thread-344825-1-2.html
+
+
+### ax 9000 uboot 
+ax 9000 uboot file 使用教程
+>https://www.right.com.cn/forum/thread-8275373-1-1.html
