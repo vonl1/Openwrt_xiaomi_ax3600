@@ -33,5 +33,5 @@ aliyunwebdav,store里边有,想用自己安装,弃掉
 
 
 ### ax 9000 uboot 
-ax 9000 uboot file 使用教程
+ax 9000 uboot file 暗云的uboot，不推荐使用，会更改默认分区表，所有官方分区固件都刷不上去
 >https://www.right.com.cn/forum/thread-8275373-1-1.html
