@@ -2,9 +2,9 @@
 # 不建议使用release中的固件，时间太久了！
 # 不建议使用release中的固件，时间太久了！
 
-# 这个仓库不再更新，本人现在用的是lede闭源固件[onedrive下载链接：](https://1drv.ms/u/s!AgA0BIPkGX_L7DXPnaZCpnZ4XfZ5
-## 不建议ax3600开adg+openclash，512mb的内存太小了，openclash现在日常占用大约60~80mb，adg大约30~40mb，很容易爆内存，我ax9000开这俩都要定时要重启，长时间使用dns有问题（很奇怪）
-## lede的固件信号好一点，ax3600就放在老家给家里人用，什么插件都不开，稳定使用就行
+## 这个仓库不再更新，本人现在用的是lede闭源固件[onedrive下载链接：](https://1drv.ms/u/s!AgA0BIPkGX_L7DXPnaZCpnZ4XfZ5
+### 不建议ax3600开adg+openclash，512mb的内存太小了，openclash现在日常占用大约60-80mb，adg大约30-40mb，很容易爆内存，我ax9000开这俩都要定时要重启，长时间使用dns有问题（很奇怪）
+### lede的固件信号好一点，ax3600就放在老家给家里人用，什么插件都不开，稳定使用就行
 
 # Github-Actions builds OpenWrt for xiaomi_ax3600
 
