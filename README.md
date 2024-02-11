@@ -1,8 +1,7 @@
 # 不建议使用release中的固件，时间太久了！
-# 不建议使用release中的固件，时间太久了！
-# 不建议使用release中的固件，时间太久了！
 
-## 这个仓库不再更新，本人现在用的是lede闭源固件[onedrive下载链接：](https://1drv.ms/u/s!AgA0BIPkGX_L7DXPnaZCpnZ4XfZ5
+## 这个仓库不再更新，本人现在用的是lede闭源固件
+## [onedrive下载链接：](https://1drv.ms/u/s!AgA0BIPkGX_L7DXPnaZCpnZ4XfZ5)
 ### 不建议ax3600开adg+openclash，512mb的内存太小了，openclash现在日常占用大约60-80mb，adg大约30-40mb，很容易爆内存，我ax9000开这俩都要定时要重启，长时间使用dns有问题（很奇怪）
 ### lede的固件信号好一点，ax3600就放在老家给家里人用，什么插件都不开，稳定使用就行
 
@@ -10,9 +9,9 @@
 
 使用p3terx的模板,openwrt仓库使用[boos4721/openwrt](https://github.com/Boos4721/openwrt),本地配置好`.config`文件,上传到主目录下
 
-## 个人自用精简固件,最新内核,不定期更新
+## ~个人自用精简固件,最新内核,不定期更新~
 
-# 推荐6-09版本，稳定使用一个多月，后续更新未测试
+# ~推荐6-09版本，稳定使用一个多月，后续更新未测试~
 
 **网关地址:`10.10.10.1`**
 
